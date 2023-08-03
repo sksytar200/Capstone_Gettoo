@@ -20,7 +20,7 @@
 - Database: Mysql
 
 ## ⚒️ 주요기능
-로그인 [상세보기](https://github.com/sksytar200/Capstone_Gettoo/wiki/%EC%A3%BC%EC%9A%94%EA%B8%B0%EB%8A%A5-%EC%86%8C%EA%B0%9C(-%EB%A1%9C%EA%B7%B8%EC%9D%B8-))
+로그인 [상세보기](https://github.com/sksytar200/Capstone_Gettoo/wiki/%EC%A3%BC%EC%9A%94%EA%B8%B0%EB%8A%A5-%EC%86%8C%EA%B0%9C(-%EB%A1%9C%EA%B7%B8%EC%9D%B8-))  
 - 로그인 시 세션 생성
 - ID 찾기, PW 찾기
 - DB 값 검증
