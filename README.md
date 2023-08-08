@@ -27,7 +27,9 @@
 
 회원가입 [상세보기](https://github.com/sksytar200/Capstone_Gettoo.wiki.git)  
 
-마이페이지 [상세보기]()
+마이페이지 [상세보기](https://github.com/sksytar200/Capstone_Gettoo.wiki.git)
+- 비밀번호 변경
+- 회원 탈퇴
 
 메인페이지
 - 동아리 목록 나열
