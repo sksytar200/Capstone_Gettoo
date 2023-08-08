@@ -25,7 +25,7 @@
 - ID 찾기, PW 찾기
 - DB 값 검증
 
-회원가입 [상세보기](https://github.com/sksytar200/Capstone_Gettoo.wiki.git)  
+회원가입 [상세보기] (https://github.com/sksytar200/Capstone_Gettoo/wiki/%EC%A3%BC%EC%9A%94%EA%B8%B0%EB%8A%A5-%EC%86%8C%EA%B0%9C(-%ED%9A%8C%EC%9B%90-%EA%B0%80%EC%9E%85-))
 
 마이페이지 [상세보기](https://github.com/sksytar200/Capstone_Gettoo.wiki.git)
 - 비밀번호 변경
